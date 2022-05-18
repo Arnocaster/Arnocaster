@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Arnaud Peybernes, a junior software engineer available for work.<br>
-
+I'm <strong>Arnaud Peybernes</strong>, a <strong>junior software engineer</strong> available for work.<br>
+I made a six month intensive formation oriented on <strong>"Fullstack Javascript"</strong> (funny to tell fullstack as a junior)<br> School :  [<img alt="oclock-logo" width="30px" src="https://jaimelesstartups.b-cdn.net/wp-content/uploads/2016/08/K81NHwiA_400x400.jpg.webp" />](https://oclock.io/formations/developpeur-web-fullstack-javascript)<br>
 ### Languages and Tools : 
 <div>
 <img align="left" alt="HTML-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
@@ -19,8 +19,7 @@ I'm Arnaud Peybernes, a junior software engineer available for work.<br>
 <img align="left" alt="VSC-logo" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" style="padding-right:10px;"/>
 </div>
 <br><br>
-My favorite combo is Node API REST + React app.<br>
-I made a projet with custom php template for Wordpress.<br>
+My favorite combo is <strong>Node API REST + React app</strong>.<br>
 🌱 I'm working to add Appolo + GraphQL on my reusable back-end software architecture.
 
 Can learn language on demand.
@@ -34,8 +33,11 @@ I would love to work on B2B tools.<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnocaster)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🔭 I’m currently working on : A loan managment software to help an association.
-A developpment version is running here : https://ludautisme-dev.herokuapp.com/<br>
+### 🔭 I’m currently working on : 
+- A video content projet with custom php template for Wordpress (deployment planned for June 2022).<br><br>
+- A loan managment software to help an association.<br>
+  -> Repo : https://github.com/Arnocaster/Ludautisme<br>
+  -> A developpment version is running here : https://ludautisme-dev.herokuapp.com/<br>
 Registration is made from back-office as a customer request.<br>
 Full Demo available on demand.
 
