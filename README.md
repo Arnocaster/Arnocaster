@@ -20,7 +20,7 @@ I made a six month intensive formation oriented on <strong>"Fullstack Javascript
 </div>
 <br><br>
 My favorite combo is <strong>Node API REST + React app</strong>.<br>
-🌱 I'm working to add Appolo + GraphQL on my reusable back-end software architecture.
+🌱 I'm working to add Apollo + GraphQL on my reusable back-end software architecture.
 
 Can learn language on demand.
 
